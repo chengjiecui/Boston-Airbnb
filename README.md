@@ -10,7 +10,7 @@ The findings of the analysis are devided into 5 sections: Neighborbood, Subway, 
 
 My Medium post base on the findings of the anaysis can be found [here](https://medium.com/@cheng.j.cui/5-things-you-need-to-know-about-airbnb-in-boston-4fefa054a786).
 
-[Take a look at the ipython notebook here].(notebook/BostonAirbnb.ipynb)
+[Take a look at the ipython notebook here.](notebook/BostonAirbnb.ipynb)
 
 ## Alternative notebook rendering
 Somethimes `.ipynb` files may fail to render on gitbub, in this case, go to [https://nbviewer.jupyter.org](https://nbviewer.jupyter.org) and paste the file URL in the window to view the rendering.
